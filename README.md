@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👋 Hi, I’m @Subhamsinha375. 
+### 📊 Data Analyst | Microsoft Excel, SQL, Python, Taleau. 
+### 📈 Turning data into actionable insights | Exploring trends and patterns. 
+### 🔍 Skilled in data cleaning, analysis, and visualization. 
+### 📧 Let's connect: sinhasubham375@gmail.com.
 
 <!--
 **Subhamsinha375/Subhamsinha375** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
