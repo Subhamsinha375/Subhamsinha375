@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @Subhamsinha375. 
+### 👋 Hi, I’m Subham Kumar Sinha. 
 ### 📊 Data Analyst | Microsoft Excel, SQL, Python, Tableau. 
 ### 📈 Turning data into actionable insights | Exploring trends and patterns. 
 ### 🔍 Skilled in data cleaning, analysis, and visualization. 
