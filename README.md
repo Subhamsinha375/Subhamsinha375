@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m @Subhamsinha375. 
-### 📊 Data Analyst | Microsoft Excel, SQL, Python, Taleau. 
+### 📊 Data Analyst | Microsoft Excel, SQL, Python, Tableau. 
 ### 📈 Turning data into actionable insights | Exploring trends and patterns. 
 ### 🔍 Skilled in data cleaning, analysis, and visualization. 
 ### 📧 Let's connect: sinhasubham375@gmail.com.
